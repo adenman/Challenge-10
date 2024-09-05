@@ -15,7 +15,11 @@ The user answers the prompts in the terminal and is given a logo based on what t
 ## Design
 
 
-<video controls src="Assets/bandicam 2024-09-05 16-07-24-400.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/5bfb6198-00f5-4a52-a02e-cdca37a3c4d5
+
+
 
 
 
