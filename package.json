@@ -1,0 +1,20 @@
+{
+    "name": "challenge-10",
+    "version": "1.0.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "author": "",
+    "description": "",
+    "keywords": [],
+    "license": "ISC",
+    "main": "shape.js",
+    "packages": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "inquirer": "8.2.4",
+        "path": "^0.12.7"
+    }
+}
